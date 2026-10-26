@@ -37,7 +37,7 @@ Designed a **Star Schema** to organize the data into fact and dimension tables.
 
 This structure improves data organization, simplifies relationships between tables, and supports efficient analytical queries and reporting in Power BI.
 
-## 📊Dashboard & Analysis
+## Dashboard & Analysis
 
 Developed an interactive Power BI dashboard to explore key business metrics and uncover insights into retail sales performance.
 
@@ -71,7 +71,7 @@ The analysis covers:
 - `Rabbit_Mart_Dashboard.pbix` — Power BI dashboard file, if included in the repository.
 - `README.md` — Project documentation.
 
-## 📚 Dataset Source & Attribution
+##  Dataset Source & Attribution
 
 - **Platform:** Kaggle
 - **Dataset:** Sample Superstore Retail Sales Dataset
